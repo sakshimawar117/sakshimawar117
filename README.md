@@ -4,6 +4,6 @@
 
 Here are some ideas to get you started:
 
- eyes I’m currently working on Website Project 
- � I’m currently learning MCA & Web Development
- � How to reach me: sakshimawar10@gmail.com
+ ### I’m currently working on Website Project 
+ ### I’m currently learning MCA & Web Development
+### How to reach me: sakshimawar10@gmail.com
